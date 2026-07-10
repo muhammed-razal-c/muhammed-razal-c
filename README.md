@@ -70,7 +70,7 @@
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+- LinkedIn: https://linkedin.com/in/muhammed-razal-c
 - Email: razalmuhammad021@gmail.com
 
 ---
