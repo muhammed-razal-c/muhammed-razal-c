@@ -60,18 +60,18 @@
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=muhammed-razal-c&show_icons=true&theme=tokyonight)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
+![](https://github-readme-streak-stats.herokuapp.com/?user=muhammed-razal-c&theme=tokyonight)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammed-razal-c&layout=compact&theme=tokyonight)
 
 ---
 
 ## 📫 Connect With Me
 
 - LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-- Email: yourmail@example.com
+- Email: razalmuhammad021@gmail.com
 
 ---
 
