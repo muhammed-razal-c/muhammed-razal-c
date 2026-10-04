@@ -59,13 +59,13 @@ I'm a **CMA (Stage 1 cleared)** student who combines **finance knowledge** with 
 An interactive dashboard to track sales performance at a glance.
 - **Tools:** Excel, Pivot Tables, Slicers
 - **Features:** KPI cards, dynamic charts, interactive filters
-- 🔗 [View Project](#) <!-- add your repo link -->
+- 🔗 [View Project](https://github.com/muhammed-razal-c/Project-on-airbnb-marketing) <!-- add your repo link -->
 
 ### 📈 Financial Analysis Dashboard
 Combines my finance background with data analytics.
 - **Tools:** Excel / Power BI
 - **Features:** Budget vs Actual analysis, profit analysis, trend analysis
-- 🔗 [View Project](https://github.com/muhammed-razal-c/Project-on-airbnb-marketing) <!-- add your repo link -->
+- 🔗 [View Project](https://github.com/muhammed-razal-c/Real_world_Project) <!-- add your repo link -->
 
 ### 🧹 Data Cleaning Project
 Turning messy raw data into analysis-ready datasets.
