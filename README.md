@@ -73,11 +73,10 @@ Turning messy raw data into analysis-ready datasets.
 - **Covers:** Duplicate removal, missing value handling, data formatting
 - 🔗 [View Project](https://github.com/muhammed-razal-c/Retail_sales) <!-- add your repo link -->
 
-> 💡 *Add a screenshot of each dashboard here. Recruiters respond to visuals.*
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Currently Advancing
 
 - 🐍 Python for Data Analysis (Pandas, NumPy, Matplotlib)
 - 🗄️ Advanced SQL
