@@ -16,9 +16,9 @@ if content.count("<div") != content.count("</div>"):
     errors.append("Unbalanced div tags")
 if re.search(r"(?i)(?:ghp_[a-zA-Z0-9]{20,}|github_pat_[a-zA-Z0-9_]{20,}|-----BEGIN (?:RSA |EC |OPENSSH )?PRIVATE KEY-----)", content):
     errors.append("Possible secret detected")
-if re.search(r"(?i)https?://[^\\s)\\]>]+(?:token|access_token|api_key|client_secret)=", content):
+if re.search(r"(?i)https?://[^\s)\]>]+(?:token|access_token|api_key|client_secret)=", content):
     errors.append("Possible secret in URL")
-links = re.findall(r"\\]\\(([^)]+)\\)", content)
+links = re.findall(r"\]\(([^)]+)\)", content)
 for link in links:
     if not (link.startswith("https://") or link.startswith("mailto:")):
         errors.append(f"Unexpected link scheme: {link}")
