@@ -1,0 +1,21 @@
+name: Validate profile
+on:
+  push:
+    paths:
+      - README.md
+      - scripts/validate_profile.py
+      - .github/workflows/validate.yml
+  pull_request:
+    paths:
+      - README.md
+      - scripts/validate_profile.py
+      - .github/workflows/validate.yml
+permissions:
+  contents: read
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate README
+        run: python3 scripts/validate_profile.py
