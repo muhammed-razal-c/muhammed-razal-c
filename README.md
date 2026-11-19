@@ -1,60 +1,82 @@
 <div align="center">
 
-# Muhammed Razal C
+# Hi, I'm Muhammed Razal C 👋
 
-**Data Analytics · Finance · Business Intelligence**
+### Finance-minded Data Analyst in the making
 
-CMA student | Aspiring Data Analyst | Kerala, India
+**CMA Student · Data Analytics · Business Intelligence · Kerala, India**
 
-[![GitHub profile](https://img.shields.io/badge/GitHub-Profile-181717?logo=github&logoColor=white)](https://github.com/muhammed-razal-c)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammed-razal-c)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?logo=gmail&logoColor=white)](mailto:razalmuhammad021@gmail.com)
+*Turning messy data into clear insights and better business decisions.*
+
+[![Portfolio](https://img.shields.io/badge/Explore-My_Projects-1f6feb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muhammed-razal-c?tab=repositories)
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammed-razal-c)
+[![Email](https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:razalmuhammad021@gmail.com)
+
+**Open to Data Analyst internships and trainee opportunities**
 
 </div>
 
-## About me
-
-I'm a CMA student with an interest in turning financial and operational data into useful business insights. I work with spreadsheets, dashboards, SQL, and Python, and I'm developing my skills in data modeling and reporting.
-
-- **Focus:** Data cleaning, analysis, dashboard design, and financial reporting
-- **Tools:** Excel, Power BI, SQL, Python, Pandas, NumPy
-- **Currently learning:** Advanced SQL, DAX, and Python for analytics
-- **Opportunities:** Data Analyst internships and trainee roles
-
-## Selected repositories
-
-| Repository | What's inside |
-| --- | --- |
-| [Retail_sales](https://github.com/muhammed-razal-c/Retail_sales) | Retail sales Power BI report and supporting documentation |
-| [Real_world_Project](https://github.com/muhammed-razal-c/Real_world_Project) | Employee work-life balance analysis and presentation |
-| [IPL_matches](https://github.com/muhammed-razal-c/IPL_matches) | SQL analysis of IPL matches and findings |
-| [python](https://github.com/muhammed-razal-c/python) | Python practice notebooks and exercises |
-| [Project-on-airbnb-marketing](https://github.com/muhammed-razal-c/Project-on-airbnb-marketing) | Airbnb marketing case-study materials |
-
-## Skills
-
-| Area | Tools and techniques |
-| --- | --- |
-| Spreadsheets | Excel, PivotTables, Power Query |
-| Business intelligence | Power BI, dashboards, DAX (learning) |
-| Data analysis | SQL, Python, Pandas, NumPy |
-| Finance | Costing, budgeting, variance and profitability analysis |
-
-## Current learning goals
-
-1. Practice SQL joins, window functions, and analytical queries.
-2. Improve Power BI data models and DAX measures.
-3. Build end-to-end Python data-cleaning and reporting projects.
-4. Document project datasets, methods, and key findings.
-
-## Contact
-
-I'm interested in data analytics internships, trainee opportunities, and practical analytics projects.
-
-- [LinkedIn](https://linkedin.com/in/muhammed-razal-c)
-- [Email](mailto:razalmuhammad021@gmail.com)
-- [GitHub](https://github.com/muhammed-razal-c)
-
 ---
 
-<sub>This profile is a static GitHub README. It does not collect passwords, use authentication tokens, or run a custom backend.</sub>
+## 👨‍💻 About me
+
+I'm a **Cost & Management Accounting (CMA) student** building practical experience in **data analytics and business intelligence**. I enjoy cleaning and exploring data, building dashboards, and connecting the numbers to financial and operational decisions.
+
+- 📊 **I work with:** Excel, Power BI, SQL, Python and data visualization
+- 💼 **My perspective:** Finance, costing, budgeting and business performance
+- 🌱 **Currently developing:** Advanced SQL, DAX, data modeling and Python analysis
+- 🎯 **My goal:** Turn data into actionable insights through real-world projects
+
+## 🚀 Featured projects
+
+| Project | Focus | Tools / deliverables |
+| --- | --- | --- |
+| [🛍️ Retail Sales](https://github.com/muhammed-razal-c/Retail_sales) | Retail reporting and performance exploration | Power BI report |
+| [🧑‍💼 Employee Work-Life Balance](https://github.com/muhammed-razal-c/Real_world_Project) | Exploring workplace survey insights | Power BI, presentation |
+| [🏏 IPL Matches](https://github.com/muhammed-razal-c/IPL_matches) | Match-data exploration with queries | SQL, findings report |
+| [🐍 Python Learning](https://github.com/muhammed-razal-c/python) | Programming and data analysis practice | Jupyter notebooks |
+| [🏡 Airbnb Marketing](https://github.com/muhammed-razal-c/Project-on-airbnb-marketing) | Marketing and business case study | Research, presentation |
+
+> Explore my [complete repository collection](https://github.com/muhammed-razal-c?tab=repositories) for additional practice projects and analysis.
+
+## 🛠️ Skills and tools
+
+<div align="center">
+
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+</div>
+
+| Specialty | What I'm working on |
+| --- | --- |
+| **Data preparation** | Cleaning, transformation, Power Query and Pandas |
+| **Analysis** | SQL queries, Excel PivotTables, exploratory analysis |
+| **Reporting** | Power BI dashboards, KPI tracking and visual storytelling |
+| **Finance** | Costing, budgeting, variance and profitability analysis |
+
+## 📚 Learning roadmap
+
+- [x] Build a foundation in Excel reporting and dashboard concepts
+- [ ] Deepen SQL skills: joins, CTEs and window functions
+- [ ] Practice DAX measures and Power BI data modeling
+- [ ] Complete more end-to-end Python analysis projects
+- [ ] Add clear methods, screenshots and findings to project READMEs
+
+## 🤝 Let's connect
+
+I'm interested in **data analyst internships, trainee roles and collaborative analytics projects**. Feel free to explore my work or get in touch.
+
+<div align="center">
+
+[**LinkedIn**](https://linkedin.com/in/muhammed-razal-c) · [**Email**](mailto:razalmuhammad021@gmail.com) · [**GitHub**](https://github.com/muhammed-razal-c)
+
+*Thanks for visiting! ⭐*
+
+</div>
